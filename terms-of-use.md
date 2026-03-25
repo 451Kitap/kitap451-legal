@@ -1,4 +1,4 @@
-# Kullanım Şartları (Terms of Use)
+# Kitap 451 - Kullanım Şartları / Terms of Use
 
 Son Güncelleme: 2026
 
@@ -58,5 +58,57 @@ Bu Kullanım Şartları gerektiğinde güncellenebilir. Güncellenmiş şartlar 
 ## İletişim
 
 Her türlü soru, öneri veya şikayet için bizimle iletişime geçebilirsiniz:
+
+📧 451kitap@gmail.com
+
+-----------------------------------------------------------------------------------------------------------------------------------
+# Terms of Use (English)
+
+Last Updated: 2026
+
+These Terms of Use apply to all users of the "Kitap 451" mobile application ("App"). By using the App, you agree to the following terms.
+
+## 1. About the App
+
+Kitap 451 is a platform where users can post and view book reviews. The App includes user-generated content (UGC).
+
+## 2. User Conduct
+
+Users agree not to:
+
+- Share abusive, offensive, or hateful content
+- Post spam or irrelevant content
+- Harass or threaten other users
+- Share illegal or misleading content
+
+## 3. Content Moderation
+
+- The developer reserves the right to review and remove content
+- Inappropriate content may be removed without notice
+- Content may be filtered automatically
+
+## 4. Reporting and Blocking
+
+- Users can report inappropriate content
+- Reported content will be reviewed within 24 hours
+- Violating content will be removed
+- Users can block other users
+- Blocked users’ content will not be visible
+
+## 5. User Accounts
+
+- Accounts violating the rules may be suspended or terminated
+- Repeated violations may result in permanent ban
+
+## 6. Disclaimer
+
+- Users are responsible for their own content
+- The developer is not responsible for user-generated content
+
+## 7. Changes
+
+These terms may be updated when necessary.
+
+## Contact
 
 📧 451kitap@gmail.com
