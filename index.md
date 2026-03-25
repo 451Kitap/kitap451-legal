@@ -1,3 +1,1 @@
-# Kullanım Şartları
-
-[Kullanım Şartlarını Görüntüle](terms-of-use.md)
+# Kitap 451 - Kullanım Şartları (Terms of Use)
